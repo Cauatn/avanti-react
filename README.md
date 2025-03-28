@@ -5,7 +5,7 @@ Este repositório contém o código para o teste da vaga na Avanti. O projeto fo
 ## Requisitos
 
 - Node.js (versão 16 ou superior)
-- npm ou yarn (gerenciador de pacotes)
+- npm (gerenciador de pacotes)
 
 ## Instalação
 
@@ -13,9 +13,9 @@ Siga os passos abaixo para instalar os pacotes necessários e rodar o projeto lo
 
 1. **Clone o repositório**
 
-   Abra seu terminal e execute o comando abaixo para clonar o repositório:
+Abra seu terminal e execute o comando abaixo para clonar o repositório:
 
-   ```bash
+```bash
    git clone <URL do repositório>
 ```
 

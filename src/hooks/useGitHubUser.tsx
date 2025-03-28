@@ -1,4 +1,3 @@
-// src/hooks/useGitHubUser.tsx
 import { useState } from "react";
 import { User } from "@/@types/user-interface";
 import { fetchGitHubUser } from "@/http/services/githubService";
